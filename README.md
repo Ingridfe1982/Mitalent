@@ -1,2 +1,2 @@
 # Exercice Mitalent HTML & CSS
-Résultat des pages "about" et "contact"
+Résultat de la page about
